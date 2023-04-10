@@ -3,4 +3,6 @@ Projeto desenvolvido com quatro semáforos. Dois semáforos para controle de tr�
 e posteriormente testado no software de simulação Proteus, utilizando a bibliteca Simulino que representa gráficamente a placa do arduino mega.
 Para controle de tempo foi utilizado a função millis(), e para controle do botão pressionado foi utilizado "flag".
 
-https://github.com/wlc071/Projeto_Semaforos/blob/main/Projeto_Semaforo.jpg
+
+
+![alt text](https://github.com/wlc071/Projeto_Semaforos/blob/main/Projeto_Semaforo.jpg)
